@@ -1,7 +1,5 @@
 # [HarvardX-Using Python In Research](https://www.edx.org/course/using-python-for-research)
 
-[](https://www.edx.org/sites/default/files/school/image/banner/harvard_logo_200x101_0.png)
-
 Python for research projects
 
 Week 1: Python Basics
